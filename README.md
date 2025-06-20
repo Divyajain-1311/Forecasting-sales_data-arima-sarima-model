@@ -51,7 +51,6 @@ Time series analysis is essential for understanding patterns like seasonality, t
 
 ## 📊 Results
 - SARIMA outperformed ARIMA due to seasonal components in the sales data.
-- Final model achieved an RMSE of **X.XX** on test data.
 - Visualizations clearly show forecast alignment with actual sales trends.
 
 *(Replace with actual metrics or graphs if available)*
