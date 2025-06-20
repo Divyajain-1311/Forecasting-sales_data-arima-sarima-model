@@ -2,16 +2,6 @@
 
 This project focuses on building time series forecasting models to predict future sales using ARIMA and SARIMA techniques. The goal is to provide accurate sales forecasts that can help businesses make better inventory and financial planning decisions.
 
-## 📌 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Objectives](#objectives)
-- [Methodology](#methodology)
-- [Technologies Used](#technologies-used)
-- [Results](#results)
-- [How to Run](#how-to-run)
-- [Future Work](#future-work)
-- [License](#license)
 
 ---
 
