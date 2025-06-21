@@ -53,7 +53,6 @@ Time series analysis is essential for understanding patterns like seasonality, t
 - SARIMA outperformed ARIMA due to seasonal components in the sales data.
 - Visualizations clearly show forecast alignment with actual sales trends.
 
-*(Replace with actual metrics or graphs if available)*
 
 ---
 
